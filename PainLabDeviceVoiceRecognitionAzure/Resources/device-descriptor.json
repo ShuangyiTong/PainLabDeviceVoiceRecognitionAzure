@@ -1,0 +1,19 @@
+﻿{
+  "name": "Speech Recognition Numerical Ratings / Azure",
+  "device_id": "yZIfSdsUhQNP5TC7zU2q",
+  "device_type": "DotNet_Azure_Speech_Rec",
+  "data_to_report": {
+    "recognition_val": "int"
+  },
+  "data_to_control": {
+    "recognition_command": "string"
+  },
+  "report_pack_order": null,
+  "control_pack_order": null,
+  "visual_report": {
+    "recognition_val": "static"
+  },
+  "visual_control": {
+	"recognition_command": "static"
+  }
+}
